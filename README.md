@@ -1,2 +1,2 @@
-# ejercicio1.ts_clase1-Lunes18abril
+# PrueboMiprimerRepo
 Created with CodeSandbox
