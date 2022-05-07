@@ -1,1 +1,1 @@
-console.log("ejercicio1_Clase1");
+// console.log("ejercicio1_Clase1");

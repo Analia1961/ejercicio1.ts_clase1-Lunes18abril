@@ -1,5 +1,14 @@
+// CLASE 1 - Lunes 18 de abril
 // Ejercicio de clase
-/*Crear un posteo en facebook*/
+/*Crear un archivo nuevo que se denomine ejercicio1.ts e imprimir por consola los pasos para:
+a) Cocinar una torta
+b) Dirigirse desde su domicilio hasta el supermercado
+c) Crear un posteo en facebook
+d) O cualquier otro procedimiento que el alumno desee
+(Mínimo 10 instrucciones)
+*/
+
+// c) Crear un posteo en facebook
 
 console.log("crear una publicación en facebook");
 console.log("creo un álbum de fotos");

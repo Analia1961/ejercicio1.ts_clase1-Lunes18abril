@@ -1,12 +1,10 @@
-// Ejercicio de clase -Clase1 Lunes 18 de Abril-
+// Ejercicio de clase - Clase1 Lunes 18 de abril
 
 /* Crear un archivo nuevo que se denomine ejercicio1.ts 
 e imprimir por consola los pasos para: 
-“Crear un posteo en Facebook” (Mínimo 10 instrucciones)
-*/
+“Crear un posteo en Facebook” (Mínimo 10 instrucciones) */
 
-
-let titulo: string = "pasos para crear una publicación en facebook";
+/* let titulo: string = "pasos para crear una publicación en facebook";
 let paso1: string = "este es mi paso 1";
 let paso2: string = "este es mi paso 2";
 let paso3: string = "este es mi paso 3";
@@ -16,10 +14,9 @@ let paso6: string = "este es mi paso 6";
 let paso7: string = "este es mi paso 7";
 let paso8: string = "este es mi paso 8";
 let paso9: string = "este es mi paso 9";
-let paso10: string = "este es mi paso 10";
+let paso10: string = "este es mi paso 10"; */
 
-
-console.log(titulo);
+/* console.log(titulo);
 console.log(paso1);
 console.log(paso2);
 console.log(paso3);
@@ -29,4 +26,4 @@ console.log(paso6);
 console.log(paso7);
 console.log(paso8);
 console.log(paso9);
-console.log(paso10);
+console.log(paso10); */
